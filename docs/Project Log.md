@@ -6,3 +6,4 @@
 - Added composer.json file
 - Added phpunit.xml
 - Added .travis.yml
+- Branched to Develop
