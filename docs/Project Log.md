@@ -5,4 +5,4 @@
 - Creating design docs including class structure
 - Added composer.json file
 - Added phpunit.xml
-
+- Added .travis.yml
