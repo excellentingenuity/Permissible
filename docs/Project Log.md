@@ -2,9 +2,10 @@
 ----
 - Initialized dir structure
 - Creating submodule dir structure
-- Creating design docs including class structure
+- Creating design docs including *class structure*
 - Added composer.json file
 - Added phpunit.xml
 - Added .travis.yml
 - Branched to Develop
 - Added Folders for different submodules
+- Need complete design docs especially class structure
