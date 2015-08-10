@@ -1,3 +1,13 @@
+08-10-15
+---
+- added ramsey/uuid as a requirement to composer, adds the ability for uuid's
+- added moontoast/math for the uuid package to handle large integers
+
+08-08-15
+---
+- Added Waffle IO board
+- Added details to the Design.md
+
 08-07-15
 ----
 - Initialized dir structure
