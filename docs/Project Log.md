@@ -1,3 +1,8 @@
+08-12-15
+---
+- removed the laravel connectors to be a seperate addon package.
+- changed the dir stucture to reflect an ACL approach to permissions
+
 08-10-15
 ---
 - added ramsey/uuid as a requirement to composer, adds the ability for uuid's
